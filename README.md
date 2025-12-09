@@ -1,5 +1,14 @@
 # Radimax Linen Services (2024)
+This is a full-time employment project, developed for Radimax Linen Services Sdn Bhd. This webpage was built using WordPress.
 
-Archived single-page corporate website for Radimax Linen Services, a fully owned subsidiary of Radimax Group. Developed in-house using WordPress by the Corporate Communications Department, where I contributed as a web developer.
+## Purpose
+The GitHub Pages version serves portfolio purposes, showcasing my progress in web design and development. The webpage is no longer associated with Radimax Linen Services.
 
-The website is no longer affiliated with Radimax Linen Services, as the company was acquired and now operates under a new name. It is uploaded here for historical record and to showcase my web design and development work.
+## Technologies Used
+The project was built in WordPress, primarily using Elementor and low-code development (HTML, CSS, JavaScript).
+
+## Status
+This project is archived and is no longer actively maintained.
+
+## License
+This repository is for portfolio purposes only and is not licensed for commercial use.
