@@ -1,5 +1,5 @@
-# Radimax Linen Services (2024)
-This is a full-time employment project, developed for Radimax Linen Services Sdn Bhd. This webpage was built using WordPress.
+# Radimax Linen Services Sdn Bhd (2024)
+This is a full-time employment project, developed for Radimax Linen Services Sdn Bhd.
 
 ## Purpose
 The GitHub Pages version serves portfolio purposes, showcasing my progress in web design and development. The webpage is no longer associated with Radimax Linen Services.
