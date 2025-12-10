@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Archived Notice",
             icon: "info",
             iconColor: "#FFC107",
-            html: `<br>You are viewing an archived project.<br><br>Content and design may be outdated and<br>is no longer affiliated with the original entity.`,
+            html: `<br>You are viewing an archived project.<br><br>Content and design may be outdated and is no longer affiliated with the original entity.`,
             showCancelButton: false,
             focusConfirm: false,
             confirmButtonText: `I Understand`,
