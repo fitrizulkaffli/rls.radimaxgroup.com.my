@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
             focusConfirm: false,
             confirmButtonText: `I Understand`,
             cancelButtonText: `Visit Current Website <i class="fa fa-external-link"></i>`,
-            footer: 'Copyright © 2024&nbsp;<a href="https://fitri.my" target="_blank" rel="noopener noreferrer" class="custom-footer-link">Mohd Fitri Zulkaffli <i class="fa fa-external-link"></i></a>',
+            footer: 'Copyright © 2024&nbsp;<a href="https://fitri.my" target="_blank" rel="noopener noreferrer" class="custom-footer-link">Mohd Fitri Zulkaffli <i class="fas fa-external-link-alt"></i></a>',
             confirmButtonColor: "#660099",
             cancelButtonColor: "#09000E",
             allowOutsideClick: false,
